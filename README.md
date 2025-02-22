@@ -26,7 +26,7 @@ This project isn’t just an app—it’s a learning journey into full-stack dev
 
 ## Features
 
-- **Secure Authentication:** Sign up/in with Google or email (6-digit OTP verification).
+- **Secure Authentication:** Sign up/in with Google or email.
 - **Rich Posts:** Create text-based content with image uploads.
 - **Engagement:** Like, comment, and receive real-time notifications.
 - **Dynamic Profiles:** Customize profiles with bios, locations, and websites.
